@@ -3,5 +3,12 @@
     "file": "twibon3.png",
     "name": "twibon3",
     "tags": []
+  },
+  {
+    "file": "twibon1.png",
+    "name": "twibon1",
+    "tags": [
+      "wisuda"
+    ]
   }
 ]
